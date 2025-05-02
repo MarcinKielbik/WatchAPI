@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WatchAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a978476bea046ee51c6fe840431ded75c4c46ec1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e070d2a5325d2b02ff42f7ec47d1034514334d1a")]
 [assembly: System.Reflection.AssemblyProductAttribute("WatchAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WatchAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
